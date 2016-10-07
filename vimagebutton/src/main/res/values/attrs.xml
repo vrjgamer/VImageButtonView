@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VImageButtonView">
+        <attr name="android:text" />
+        <attr name="android:textColor" />
+        <attr name="android:textSize" />
+        <attr name="android:gravity" />
+        <attr name="textPadding" format="dimension" />
+        <attr name="textTopPadding" format="dimension" />
+        <attr name="textBottomPadding" format="dimension" />
+        <attr name="textLeftPadding" format="dimension" />
+        <attr name="textRightPadding" format="dimension" />
+
+        <attr name="android:src" />
+        <attr name="android:scaleType" />
+        <attr name="android:background" />
+        <attr name="imagePadding" format="dimension" />
+        <attr name="imageTopPadding" format="dimension" />
+        <attr name="imageBottomPadding" format="dimension" />
+        <attr name="imageLeftPadding" format="dimension" />
+        <attr name="imageRightPadding" format="dimension" />
+
+        <attr name="overlay" format="color"/>
+        <attr name="overlayAlpha" format="float"/>
+
+    </declare-styleable>
+
+
+</resources>
